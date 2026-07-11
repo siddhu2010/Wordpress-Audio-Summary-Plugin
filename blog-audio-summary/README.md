@@ -1,12 +1,8 @@
 # 🎉 Blog AUDIO SUMMARY - INSTALLATION GUIDE
-## Your ResponsiveVoice Key is Already Configured!
 
 ---
 
 ## ⚡ SUPER QUICK INSTALL (2 MINUTES!)
-
-### Your ResponsiveVoice Key: `yakzCuBD`
-✅ Already integrated into the plugin - No manual setup needed!
 
 ---
 
@@ -257,19 +253,12 @@ Your ResponsiveVoice key (`yakzCuBD`) is configured.
 - ✅ Personal blogs
 - ✅ Non-profit organizations
 
-**Commercial License Needed:**
-If your blog is commercial (sells products/services, has ads, etc.):
-- Cost: **$39/year** (only $3.25/month!)
-- Purchase: https://responsivevoice.org/pricing/
-- What you get: Same features, commercial rights
-
-**Comparison:**
+**VoiceAPIs:**
 - ResponsiveVoice: $39/year unlimited
 - Google Cloud TTS: ~$192/year for 100 posts/month
 - Amazon Polly: ~$192/year
 - ElevenLabs: ~$264/year
 
-**You Save: $150+ per year!** 🎉
 
 ---
 
