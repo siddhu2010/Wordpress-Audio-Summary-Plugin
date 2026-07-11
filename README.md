@@ -36,6 +36,7 @@ Watch the plugin in action:
 ## 🎥 Live Demonstration
 
 [▶ Watch the Live Demonstration](Live%20Demonstration.mp4)
+https://github.com/user-attachments/assets/062beaf6-f42c-4815-a204-24522cbe0750
 
 ---
 
