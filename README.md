@@ -33,9 +33,9 @@ This plugin automatically adds an elegant audio player to your blog posts, allow
 
 Watch the plugin in action:
 
-📹 **Live Demonstration**
+## 🎥 Live Demonstration
 
-![Live Demonstartion](Live%Demonstration.mp4)
+[▶ Watch the Live Demonstration](Live%20Demonstration.mp4)
 
 ---
 
